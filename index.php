@@ -1,7 +1,7 @@
 <?php
 mysql_connect('localhost', 'luxury', 'luxury');
 mysql_select_db('boards');
-
+//test
 $ID = 1;
 ?>
 
